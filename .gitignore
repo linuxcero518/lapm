@@ -1,0 +1,11 @@
+build/
+build-*/
+.cache/
+compile_commands.json
+*.lof
+*.part
+*.tmp.*
+.cproject
+.project
+.vscode/
+.idea/
